@@ -99,6 +99,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
+[Debugging memory corruption: who the hell writes “2” into my stack?!](https://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2/)
+
 ## Contributors
 
 * Alexandros Tasos
